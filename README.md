@@ -1,4 +1,4 @@
-# VIPS
+# VPIS
 Voter's Polling Information System
 
 DOWNLOAD THE SOURCE CODE
